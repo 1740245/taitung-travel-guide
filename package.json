@@ -1,0 +1,11 @@
+{
+  "name": "taitung-travel-guide",
+  "version": "1.0.0",
+  "description": "Hualien Taitung Travel Scenic Spots Gallery",
+  "scripts": {
+    "start": "npx serve -s . -l $PORT"
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
